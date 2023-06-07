@@ -1,3 +1,3 @@
-# qa_guru_python_6_2
+### qa_guru_python_6_2
 
-# Домашка 1
+## Домашка 1
